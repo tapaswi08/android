@@ -1,0 +1,4 @@
+package com.example.googlemap
+
+data class ItemsViewModel(val firstname: String, val status: String) {
+}
